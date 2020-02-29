@@ -12,6 +12,8 @@
 
 # Package Files #
 *.jar
+# exclude lib/*.jar
+!lib/*.jar
 *.war
 *.nar
 *.ear
@@ -21,3 +23,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Intellij IDEA project files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Maven files
+target/
+
+# Gradle files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+build/
+
+# Others files
+.DS_Store
+*.log
