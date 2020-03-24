@@ -12,7 +12,8 @@ package com.touchgold.thinkinginjava.concurrency;
  */
 public class LiftOff implements Runnable {
 
-    private int countDown = 10; // Default
+    // 复习：定义protected目的是SleepingTask.java子类对象能够访问，private是仅本类可见
+    protected int countDown = 10;
     private static int taskCount = 0;
     // 非static修饰
     private final int id = taskCount++;

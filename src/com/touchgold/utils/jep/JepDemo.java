@@ -29,7 +29,7 @@ public class JepDemo {
         // 设置公式
         String expression_le = "1 ≦ x && x < 70";
         String expression_lt = "x < 70";
-        //不支持 10%≦ y && y < 70% 这种比较运算
+        // 不支持 10%≦ y && y < 70% 这种比较运算
         String expression_le_percent = "0.1≦ y && y < 0.7";
         // 给变量赋值
         try {
