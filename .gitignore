@@ -13,7 +13,7 @@
 # Package Files #
 *.jar
 # exclude lib/*.jar
-!lib/*.jar
+!libs/*.jar
 *.war
 *.nar
 *.ear
