@@ -1,4 +1,4 @@
-package com.touchgold.thinkinginjava.concurrency.exercises;
+package com.ghoul.thinkinginjava.concurrency.exercises;
 
 /**
  * @description: 这里用一句话描述这个类的作用

@@ -1,4 +1,4 @@
-package com.touchgold.thinkinginjava.concurrency;
+package com.ghoul.thinkinginjava.concurrency;
 
 /**
  * @description: Demonstration of the Runnable interface

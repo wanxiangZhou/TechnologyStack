@@ -1,4 +1,4 @@
-package com.touchgold.thinkinginjava.concurrency.exercises;
+package com.ghoul.thinkinginjava.concurrency.exercises;
 
 /**
  * @description: Thinking In Java 4th Chapter Concurrency, Exercise 1, page 1120 <br/>

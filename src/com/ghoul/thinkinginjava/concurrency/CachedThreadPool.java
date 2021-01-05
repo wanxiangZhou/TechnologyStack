@@ -1,4 +1,4 @@
-package com.touchgold.thinkinginjava.concurrency;
+package com.ghoul.thinkinginjava.concurrency;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

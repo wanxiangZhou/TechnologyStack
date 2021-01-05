@@ -1,9 +1,9 @@
-package com.touchgold.thinkinginjava.concurrency.exercises;
+package com.ghoul.thinkinginjava.concurrency.exercises;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-import com.touchgold.thinkinginjava.test.RecursionToIterate;
+import com.ghoul.thinkinginjava.test.RecursionToIterate;
 
 /**
  * @description: Thinking In Java 4th Chapter Concurrency, Exercise 2, page 1120 <br/>

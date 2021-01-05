@@ -1,4 +1,4 @@
-package com.touchgold.utils.jep;
+package com.ghoul.utils.jep;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;

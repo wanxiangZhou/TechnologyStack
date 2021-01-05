@@ -1,4 +1,4 @@
-package com.touchgold.thinkinginjava.concurrency;
+package com.ghoul.thinkinginjava.concurrency;
 
 /**
  * @description: The most basic use of the Thread class.

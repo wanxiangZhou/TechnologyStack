@@ -1,4 +1,4 @@
-package com.touchgold.thinkinginjava.concurrency.exercises;
+package com.ghoul.thinkinginjava.concurrency.exercises;
 
 import java.util.ArrayList;
 import java.util.List;
